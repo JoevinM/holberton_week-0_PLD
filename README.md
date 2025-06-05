@@ -28,7 +28,7 @@ Copier
 Modifier
 **gras** ou __gras__
 *italique* ou _italique_
-~~barrer©~~
+~~barrer~~
 Listes
 Liste |  puces
 
@@ -138,9 +138,9 @@ Windows est un systeme d exploitation cree par Microsoft.
 
 Il est proprietaire, et est tres rependu sur les ordinateurs personnels.
 
-Contrairement |  Unix/Linux, sa base technique est diffe©rente.
+Contrairement |  Unix/Linux, sa base technique est differente.
 
-Il est tres orienter interface graphiqu (Bureau, feneªtres, clics).
+Il est tres orienter interface graphiqu (Bureau, fenetres, clics).
 
 
 ## Questions
