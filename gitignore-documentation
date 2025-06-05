@@ -1,0 +1,10 @@
+# Utilitéde .Gitignore
+
+L'utilité de .Gitignore est de pouvoir exclure les fichiers indsirables en les pointann
+ts par symboles, formats, caractres.
+
+Existe-t-il des templates prédéfinis de .gitignore selon le langage de programmation qq
+ue j'utili ?
+
+Oui (TRUE)  il xiste des templates prdfinis de .gitignore selon le langage de programm
+mation utiliser, ces templates sont disponibles sur le Gihub officiel de gitignore.
