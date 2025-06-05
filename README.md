@@ -7,39 +7,44 @@ Structurer un texte (titres, paragraphes)
 
 Mettre en forme du texte (gras, italique, listes, etc.)
 
-Intégrer des éléments comme des images, des liens, du code
+Inte�grer dese�e�ments comme des images, des liens, du code
 
-~\~M~O Principales syntaxe Markdown
+ Principales syntaxe Markdown
+
 Titres
+
 markdown
+
 Copier
+
 Modifier
+
 # Titre de niveau 1
 ## Titre de niveau 2
 ### Titre de niveau 3
-Texte en gras, italique, barré
-mardown
+Texte en gras, italique, barrer
+
 Copier
 Modifier
 **gras** ou __gras__
 *italique* ou _italique_
-~~barré~~
+~~barrer�~~
 Listes
 Liste |  puces
 
 markdown
 Copier
 Modifier
-- ~Ilément 1
-- ~Ilément 2
-  - Sous-élément
-Liste numérotée
+- ~Ele�ment 1
+- ~Ele�ment 2
+  - Sous-ée�men
+Liste numéro�e
 
 markdown
 Copier
 Modifier
 1. Premier
-2. Deuxième
+2. Deuxie�me
 Liens et images
 markdown
 Copier
@@ -61,11 +66,11 @@ Modifier
 Voici du `code` en ligne.
 Bloc de code :
 
-markdown
+``markdown
 Copier
 Modifier
 def bonjour():
-print("Salut !")
+print("Salut !")``
 
 Copier
 Modifier
@@ -74,14 +79,14 @@ markdown
 Copier
 Modifier
 ---
-~_~S~D Format des fichiers Markdown
-Les fichiers Markdown ont généralement l~@~Yextension :
+~_~ Format des fichiers Markdown
+Les fichiers Markdown ont gée�ralement l~@~Yextension :
 .md (ex. README.md)
 
-~_~S~L Pourquoi utiliser Markdown ?
+Pourquoi utiliser Markdown ?
 Simple |  apprendre
 
-Lisible même sans conversion
+Lisible me�me sans conversion
 
 Parfait pour la documentation, blogs statiques, etc.
 
@@ -90,45 +95,44 @@ Compatible avec de nombreux outils (GitHub, Notion, Obsidian, etc.)
 # Diffrences entre systmes d'exploitations
 
 ~_ Unix
-Unix est un ancien système d~@~Yexploitation créé dans les années 1970.
+Unix est un ancien système d~@~Yexploitation cee� dans les années 1970.
 
-Il a servi de base |  beaucoup d~@~Yautres systèmes.
+Il a servi de base |  beaucoup d autres syste�mes.
 
-C~@~Yest un système souvent propriétaire (non gratuit).
+C est un système souvent propre�taire (non gratuit).
 
-Utilisé surtout dans les serveurs ou systèmes industriels.
+Utilise� surtout dans les serveurs ou syse�mes industriels.
 
 Exemples de systèmes Unix : AIX, Solaris, HP-UX.
 
-~_~P Linux
-Linux est un noyau de système d~@~Yexploitation, créé en 1991 par Linus Torvalds.
+~ Linux
+Linux est un noyau de système  exploitation, cree� en 1991 par Linus Torvalds.
 
 Il est libre et open-source.
 
-Il est basé sur les idées de Unix, mais n~@~Yest pas Unix.
+Il est base� sur les ie�es de Unix, mais est pas Unix.
 
-De nombreux systèmes appelés "distributions" utilisent Linux (comme Ubuntu, Debian, Fee
-dora~@).
+De nombreux systèmes appee�s "distributions" utilisent Linux (comme Ubuntu, Debian, Fee
+dora).
 
-~_~L~P Ubuntu
+ Ubuntu
 Ubuntu est une distribution Linux.
 
-C~@~Yest un système d~@~Yexploitation complet, basé sur Linux.
+C est un système  exploitation complet, base� sur Linux.
 
-Développé par Canonical, il est conçu pour être simple |  utiliser, même pour les  
-débutants.
+Dévelope� par Canonical, il est conçu pour être simple |  utilisere�me pour les  
+de�butants.
 
-Il inclut : le noyau Linux + une interface graphique + des logiciels prêts |  l~@~Yemm
-ploi.
+Il inclut : le noyau Linux + une interface graphique + des logiciels pre�t a l emploi.
 
-~_~_ Windows
-Windows est un système d~@~Yexploitation créé par Microsoft.
+ Windows
+Windows est un syste�me  exploitation cree� par Microsoft.
 
-Il est propriétaire, fermé et très répandu sur les ordinateurs personnels.
+Il est proprie�taire, fere� et trère�pandu sur les ordinateurs personnels.
 
-Contrairement |  Unix/Linux, sa base technique est différente.
+Contrairement |  Unix/Linux, sa base technique est diffe�rente.
 
-Il est très orienté interface graphique (bureau, fenêtres, clics).
+Il est très oriene� interface graphique (Bureau, fene�tres, clics).
 
 
 ## Questions |  répondre dans le README.md
