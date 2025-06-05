@@ -1,13 +1,13 @@
 # Introduction au Markdown
 
-~_|  Objectif de Markdown
+Objectif de Markdown
 Markdown permet de :
 
 Structurer un texte (titres, paragraphes)
 
 Mettre en forme du texte (gras, italique, listes, etc.)
 
-Inte©grer dese©e©ments comme des images, des liens, du code
+Integrer des elements comme des images, des liens, du code
 
  Principales syntaxe Markdown
 
@@ -35,16 +35,18 @@ Liste |  puces
 markdown
 Copier
 Modifier
-- ~Ele©ment 1
-- ~Ele©ment 2
-  - Sous-√©e©men
-Liste num√©ro©e
+- ~Element 1
+- ~Element 2
+  - Sous-element
+
+Liste numerotee
 
 markdown
 Copier
 Modifier
 1. Premier
-2. Deuxie®me
+2. Deuxieme
+
 Liens et images
 markdown
 Copier
@@ -66,21 +68,25 @@ Modifier
 Voici du `code` en ligne.
 Bloc de code :
 
+
+
 ``markdown
 Copier
 Modifier
 def bonjour():
 print("Salut !")``
 
+
+
 Copier
 Modifier
-S√©parateur
+Separateur
 markdown
 Copier
 Modifier
 ---
-~_~ Format des fichiers Markdown
-Les fichiers Markdown ont g√©e©ralement l~@~Yextension :
+Format des fichiers Markdown
+Les fichiers Markdown ont generalement des extension :
 .md (ex. README.md)
 
 Pourquoi utiliser Markdown ?
@@ -94,45 +100,46 @@ Compatible avec de nombreux outils (GitHub, Notion, Obsidian, etc.)
 
 # Diffrences entre systmes d'exploitations
 
-~_ Unix
-Unix est un ancien syst√®me d~@~Yexploitation cee© dans les ann√©es 1970.
+Unix
+Unix est un ancien syst√®me  exploitation nee© dans les ann√©es 1970.
 
-Il a servi de base |  beaucoup d autres syste®mes.
+Il a servi de base |  beaucoup d autres systemes.
 
-C est un syst√®me souvent propre©taire (non gratuit).
+C est un systeme souvent proprietaire (non gratuit).
 
-Utilise© surtout dans les serveurs ou syse®mes industriels.
+Utiliser  surtout dans les serveurs ousysteme industriels.
 
-Exemples de syst√®mes Unix : AIX, Solaris, HP-UX.
+Exemples de systemes Unix : AIX, Solaris, HP-UX.
 
-~ Linux
+Linux
 Linux est un noyau de syst√®me  exploitation, cree© en 1991 par Linus Torvalds.
 
 Il est libre et open-source.
 
-Il est base© sur les ie©es de Unix, mais est pas Unix.
+Il est baser sur les idees de Unix, mais n est pas Unix.
 
-De nombreux syst√®mes appee©s "distributions" utilisent Linux (comme Ubuntu, Debian, Fee
+De nombreux systemes appeller "distributions" utilisent Linux (comme Ubuntu, Debian, Fee
 dora).
 
  Ubuntu
 Ubuntu est une distribution Linux.
 
-C est un syst√®me  exploitation complet, base© sur Linux.
+C est un systeme d exploitation complet, base sur Linux.
 
-D√©velope© par Canonical, il est con√ßu pour √™tre simple |  utilisere™me pour les  
-de©butants.
+Developper© par Canonical, il es concu pour etre simple | utilisable pour les  
+debutants.
 
-Il inclut : le noyau Linux + une interface graphique + des logiciels pre™t a l emploi.
+Il inclut : le noyau Linux + une interface graphique + des logiciels pret  a l emploi.
 
- Windows
-Windows est un syste®me  exploitation cree© par Microsoft.
+Windows
 
-Il est proprie©taire, fere© et tr√®re©pandu sur les ordinateurs personnels.
+Windows est un systeme d exploitation cree par Microsoft.
+
+Il est proprietaire, et est tres rependu sur les ordinateurs personnels.
 
 Contrairement |  Unix/Linux, sa base technique est diffe©rente.
 
-Il est tr√®s oriene© interface graphique (Bureau, fene™tres, clics).
+Il est tres orienter© interface graphique (Bureau, fene™tres, clics).
 
 
 ## Questions |  r√©pondre dans le README.md
